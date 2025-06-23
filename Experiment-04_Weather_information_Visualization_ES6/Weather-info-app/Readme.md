@@ -46,6 +46,6 @@ License
 This project is licensed under the MIT License.
 
 Author
-•tarunteja
+Senona Persis
 •GitHub: Your GitHub Profile
 Feel free to contribute or suggest improvements!
